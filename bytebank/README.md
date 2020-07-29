@@ -19,3 +19,10 @@
 * Criar um formulário utilizando o _widget *TextField*_
 * Aplicar margem nos _widgets_ 
 * E como recuperar o valor dos _inputs_
+
+## O que aprendi fazendo o _módulo 4 - Utilizando uma lista dinâmica de Widgets_?
+
+* Criar campos opicionais no widget
+* Aplicar margem nos _widgets_ 
+* Fazer navegação e transferencia de dados com o Navigator
+* Realizar operações assíncronas usando o _Future_
