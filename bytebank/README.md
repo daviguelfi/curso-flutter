@@ -26,3 +26,10 @@
 * Aplicar margem nos _widgets_ 
 * Fazer navegação e transferencia de dados com o Navigator
 * Realizar operações assíncronas usando o _Future_
+
+
+## O que aprendi fazendo o _módulo 5 - Utilizando o StatefulWidgets_?
+
+* Resolver alguns bugs padrões
+* Aplicar tema que englobe o aplicativo todo
+* Organização do projeto seguindo boas praticas
