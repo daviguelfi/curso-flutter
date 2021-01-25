@@ -27,6 +27,7 @@ class FormularioTransferenciaState extends State<FormularioTransferencia> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+        backgroundColor: Colors.grey[200],
         appBar: AppBar(
           title: Text(_tituloAppBar),
         ),
