@@ -8,4 +8,9 @@ class Product {
     this.amount,
     this.value,
   );
+
+  @override
+  String toString() {
+    return 'Product{name: $name, amount: $amount, value: $value}';
+  }
 }
